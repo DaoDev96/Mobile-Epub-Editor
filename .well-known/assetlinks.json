@@ -1,0 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.daodev96.twa",
+        "sha256_cert_fingerprints": ["4E:D8:0F:65:17:92:65:BA:8E:49:FF:62:BF:37:18:27:DF:16:0E:AC:BC:E2:93:74:65:D1:DC:53:15:7B:FC:2B"]
+      }
+    }]
+
