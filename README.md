@@ -13,31 +13,41 @@ A simple on-device tool for cleaning up EPUB files — search and replace text o
 
 ## Screenshots
 
-| Homepage | Chapter Selection |
-|---|---|
-| 
+### Homepage
+Drop in an EPUB — everything runs locally, nothing is uploaded.
+
+
 
 ![Homepage](images/homepage.jpg)
 
- | 
+
+
+### Chapter Selection
+Pick exactly which chapters or files get edited before running a rule.
+
+
 
 ![Chapter Selection](images/chapter-selection.jpg)
 
- |
-| Drop in an EPUB — everything runs locally, nothing is uploaded. | Pick exactly which chapters or files get edited before running a rule. |
 
-| Find, Replace & Preview | Quick Fixes |
-|---|---|
-| 
+
+### Find, Replace & Preview
+See every match highlighted with a before → after diff, file by file.
+
+
 
 ![Find, Replace, Preview](images/find-replace-preview.jpg)
 
- | 
+
+
+### Quick Fixes
+One-tap presets for common conversion glitches, like duplicated chapter titles.
+
+
 
 ![Quick Fixes](images/quick-fixes.jpg)
 
- |
-| See every match highlighted with a before → after diff, file by file. | One-tap presets for common conversion glitches, like duplicated chapter titles. |
+
 
 ## Try it in a browser
 [daodev96.github.io/Mobile-Epub-Editor](https://daodev96.github.io/Mobile-Epub-Editor/)
@@ -49,4 +59,4 @@ A simple on-device tool for cleaning up EPUB files — search and replace text o
 4. Install and open — it runs like any other app, including offline
 
 ## About this project
-Runs entirely client-side — no server, no account, no data leaves your device.
+Runs entirely client-side — no server, no account, no data leaves your device.Runs entirely client-side — no server, no account, no data leaves your device.
